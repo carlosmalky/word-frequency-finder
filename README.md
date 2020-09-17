@@ -1,2 +1,3 @@
 # word-frequency-finder
 This word frequency finder has one C++ file that uses object oriented programming to find the most used words in a text. This program uses sorting algorithms, mainly merge sort. There are two outputs this program produces. The first output is a .txt file that has all the words in the book sorted alphabetically with their frequency next to them. This output is called the “bookname”.txt – alphabetical.txt. The second output file is all the words sorted by their word frequency. The top word is the word that is used the most in the entire book. This file is outputted as “bookname”.txt – frequency.txt.
+This project is an assignment from the University of Arkansas and contains modified code from John Gauch.
